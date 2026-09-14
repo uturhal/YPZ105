@@ -1,0 +1,17 @@
+a b c
+a-b-c
+Satır sonu yok | aynı satırda devam
+Öğrenci Mehmet, puan 87.4567
+Puan (2 ondalık): 87.46
+Puan (yüzde işareti gibi): 87.5%
+Binlik ayırıcı: 1,234,567
+Sağa dayalı 10 karakter: [    Mehmet]
+Sola dayalı 10 karakter: [Mehmet    ]
+Ortalanmış 10 karakter : [  Mehmet  ]
+Sıfırla doldur: 00042
+İfade de yazılabilir: 3 * 7 = 21
+Tab	ile ayrılmış	sütunlar
+Alt satıra
+geçmek için \n kullanılır
+Tırnak içinde "tırnak" yazmak
+Tek tırnaklı metinde "çift tırnak" serbesttir

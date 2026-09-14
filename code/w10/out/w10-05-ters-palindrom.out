@@ -1,0 +1,8 @@
+Bir kelime: kayak
+  tersi            : kayak
+  dilimle aynı mı  : True
+  palindrom mu     : True
+Bir kelime: python
+  tersi            : nohtyp
+  dilimle aynı mı  : True
+  palindrom mu     : False

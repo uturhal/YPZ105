@@ -1,0 +1,9 @@
+{1, 3, 9, 7} 4 [1, 3, 7, 9]
+7 var mı? True  5 var mı? False
+Birleşim: ['Ayşe', 'Can', 'Elif', 'Mehmet', 'Zeynep']
+Kesişim : ['Can', 'Zeynep']
+Fark    : ['Ayşe', 'Mehmet']
+Simetrik: ['Ayşe', 'Elif', 'Mehmet']
+Sabah grubu: ['Can', 'Deniz', 'Mehmet', 'Zeynep']
+6 kelime, 3 farklı
+<class 'set'> <class 'dict'>

@@ -1,0 +1,4 @@
+percent(85) = 85.0
+  shadow_demo içinde count = 99
+shadow_demo sonrası count = 0
+increase() x2 sonrası count = 2

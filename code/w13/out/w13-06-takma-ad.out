@@ -1,0 +1,4 @@
+a = [1, 2, 3, 4]  b = [1, 2, 3, 4] | a is b: True
+a = [1, 2, 3, 4]  c = [99, 2, 3, 4]
+a is c: False | a == c: False | a == d: True
+x = 5  y = 6

@@ -1,0 +1,4 @@
+add_bonus dönüşü: None
+grades           : [77, 90, 96, 63, 100]
+with_bonus dönüşü: [77, 90, 96, 63, 100]
+safe             : [72, 85, 91, 58, 97]

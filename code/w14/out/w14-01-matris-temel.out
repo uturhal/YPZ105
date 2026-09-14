@@ -1,0 +1,7 @@
+Satır sayısı: 3  Sütun sayısı: 4
+1. satır: [5, 2, 9, 4]
+m[1][2] = 9  sağ alt: 8
+2. sütunun toplamı: 13
+Tüm elemanların toplamı: 56
+Çift eleman sayısı: 6
+Yeni 2. satır: [7, 10, 3, 8]

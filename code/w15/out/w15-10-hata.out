@@ -1,0 +1,10 @@
+siir.txt:
+  Okundu: Sabah olur, sis iner Karadeniz'in tepelerine,
+  (siir.txt denemesi bitti)
+  dönen değer: "Sabah olur, sis iner Karadeniz'in tepelerine,"
+yok.txt:
+  HATA: 'yok.txt' bulunamadı.
+  (yok.txt denemesi bitti)
+  dönen değer: None
+notlar.txt var mı? True
+yok.txt var mı?    False

@@ -1,0 +1,6 @@
+16
+a = None
+<class 'NoneType'>
+b = 16
+b + 1 = 17
+16

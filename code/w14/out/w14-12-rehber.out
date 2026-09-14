@@ -1,0 +1,21 @@
+
+1) Ekle/güncelle  2) Ara  3) Listele  0) Çık
+Seçiminiz: 1
+Ad: Ayşe
+Telefon: 0532 111 22 33
+Ayşe eklendi.
+
+1) Ekle/güncelle  2) Ara  3) Listele  0) Çık
+Seçiminiz: 2
+Aranan ad: Kerem
+Kerem rehberde yok.
+
+1) Ekle/güncelle  2) Ara  3) Listele  0) Çık
+Seçiminiz: 3
+2 kayıt:
+  Ayşe       0532 111 22 33
+  Zeynep     0533 000 11 22
+
+1) Ekle/güncelle  2) Ara  3) Listele  0) Çık
+Seçiminiz: 0
+Rehber kapatıldı. Kayıt sayısı: 2

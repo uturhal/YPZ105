@@ -1,0 +1,5 @@
+Veri toplanır, veri temizlenir, sonra veri modele verilir.
+Model veriden öğrenir; model tahmin eder, bazen model yanılır.
+Her iyi model iyi veriden doğar, iyi veri de sabırdan doğar.
+Yapay zeka veri ister; veri emek ister, emek de zaman ister.
+Bu yüzden bir yapay zeka projesinin çoğu saati veri üzerinde geçer.

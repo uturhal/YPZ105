@@ -1,0 +1,19 @@
+[1] Ekle [2] Sil [3] Listele [4] Çık > 1
+  Ürün: süt
+[1] Ekle [2] Sil [3] Listele [4] Çık > 1
+  Ürün: ekmek
+[1] Ekle [2] Sil [3] Listele [4] Çık > 1
+  Ürün: yumurta
+[1] Ekle [2] Sil [3] Listele [4] Çık > 1
+  Ürün: süt
+  Zaten listede.
+[1] Ekle [2] Sil [3] Listele [4] Çık > 2
+  Silinecek ürün: ekmek
+[1] Ekle [2] Sil [3] Listele [4] Çık > 2
+  Silinecek ürün: peynir
+  Listede yok: peynir
+[1] Ekle [2] Sil [3] Listele [4] Çık > 3
+  1. süt
+  2. yumurta
+[1] Ekle [2] Sil [3] Listele [4] Çık > 4
+Son liste: ['süt', 'yumurta'] | ürün sayısı: 2

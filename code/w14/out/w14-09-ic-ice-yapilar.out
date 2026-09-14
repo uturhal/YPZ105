@@ -1,0 +1,8 @@
+2601  Ayşe       84.33
+2602  Mehmet     65.67
+2603  Zeynep     94.33
+{'ad': 'Mehmet', 'no': 2602, 'notlar': [60, 72, 65], 'durum': 'geçti'}
+Pazartesi : Matematik, Fizik
+Salı      : Programlama, Lineer Cebir
+Çarşamba  : (ders yok)
+Haftalık ders sayısı: 4

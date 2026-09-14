@@ -1,0 +1,18 @@
+1) Bakiye  2) Para yatır  3) Para çek  4) Çıkış
+Seçiminiz: 2
+Yatırılacak tutar: 500
+İşlem tamam. Güncel bakiye: 1500.00 TL
+1) Bakiye  2) Para yatır  3) Para çek  4) Çıkış
+Seçiminiz: 3
+Çekilecek tutar: 2000
+Yetersiz bakiye!
+1) Bakiye  2) Para yatır  3) Para çek  4) Çıkış
+Seçiminiz: 9
+Geçersiz seçim.
+1) Bakiye  2) Para yatır  3) Para çek  4) Çıkış
+Seçiminiz: 3
+Çekilecek tutar: 300
+İşlem tamam. Güncel bakiye: 1200.00 TL
+1) Bakiye  2) Para yatır  3) Para çek  4) Çıkış
+Seçiminiz: 4
+İyi günler!

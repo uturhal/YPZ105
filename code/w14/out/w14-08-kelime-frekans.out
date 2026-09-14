@@ -1,0 +1,7 @@
+12 kelime, 5 farklı kelime
+{'elma': 4, 'armut': 3, 'kiraz': 2, 'muz': 2, 'kivi': 1}
+İki biçim aynı sonucu verir: True
+En sık üç kelime:
+  elma      4  ****
+  armut     3  ***
+  kiraz     2  **

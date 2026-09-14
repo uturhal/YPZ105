@@ -1,0 +1,13 @@
+circle_area(3) = 28.274333882308138
+Help on function circle_area in module __main__:
+
+circle_area(radius)
+    Yarıçapı verilen dairenin alanını döndürür.
+    
+    radius: yarıçap (float);  Dönüş: alan, aynı birimin karesi (float)
+
+Help on built-in function len in module builtins:
+
+len(obj, /)
+    Return the number of items in a container.
+

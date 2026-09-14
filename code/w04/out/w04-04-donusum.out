@@ -1,0 +1,11 @@
+Yaşınızı girin: 19
+Girilen değer: 19 -> türü: <class 'str'>
+10 yıl sonra yaşınız: 29
+Boyunuzu metre olarak girin: 1.75
+Boyunuz santimetre olarak: 175.0
+Yaş: 19, Boy: 1.75 m
+3
+-3
+7.0
+42
+False True False True

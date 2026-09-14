@@ -1,0 +1,4 @@
+Mevcut bakiye (TL): 1000
+İşlem (yatır / çek / bakiye): çek
+Tutar (TL, bakiye için 0): 1500
+Yetersiz bakiye! En fazla 1000.00 TL çekebilirsiniz.

@@ -1,0 +1,4 @@
+hedef 57: doğrusal  6 (7 adım) | ikili  6 (3 adım)
+hedef  4: doğrusal  0 (1 adım) | ikili  0 (3 adım)
+hedef 50: doğrusal -1 (8 adım) | ikili -1 (3 adım)
+n = 100000 | doğrusal: (99999, 100000) | ikili: (99999, 17)

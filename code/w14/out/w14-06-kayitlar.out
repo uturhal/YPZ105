@@ -1,0 +1,9 @@
+[('Ayşe', 85), ('Mehmet', 60), ('Zeynep', 95)] ...
+En düşük: Mehmet (60), en yüksek: Zeynep (95)
+Ortalama: 77.6
+1   Zeynep      95
+2   Ayşe        85
+3   Elif        78
+4   Can         70
+5   Mehmet      60
+Alfabetik ilk iki: [('Ayşe', 85), ('Can', 70)]

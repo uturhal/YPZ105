@@ -1,0 +1,10 @@
+   0   1   2
+0  O | X |  
+1    | X |  
+2    | X | O
+Aday üçlü: 8  kazanan: X  dolu mu? False
+   0   1   2
+0  X | O | X
+1  X | O | O
+2  O | X | X
+Kazanan: None  dolu mu? True

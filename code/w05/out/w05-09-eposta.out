@@ -1,0 +1,9 @@
+E-posta adresi:   Ayse.Yilmaz@ogr.trabzon.edu.tr 
+Kullanıcı adı : ayse.yilmaz
+Alan adı      : ogr.trabzon.edu.tr
+
+Tam bir @ var           : True
+Kullanıcı adı boş değil : True
+Alan adında nokta var   : True
+Boşluk içermiyor        : True
+Kurumsal (.edu.tr)      : True

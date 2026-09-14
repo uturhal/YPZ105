@@ -1,0 +1,9 @@
+[72, 85, 91, 58, 77] <class 'list'>
+['Ayşe', 19, 3.85, True] [1, 2, 3, 4, 5] [0, 0, 0, 0] []
+Eleman sayısı: 5
+İlk: 72 Son: 77 Üçüncü: 91
+İlk üç  : [72, 85, 91] | son iki: [58, 77]
+Atlamalı: [72, 91, 77] | tersten: [77, 58, 91, 85, 72]
+Birleştirme: [72, 85, 91, 58, 77, 100, 0] | yineleme: [1, 2, 1, 2, 1, 2]
+Üyelik: True False
+Parçalama: True

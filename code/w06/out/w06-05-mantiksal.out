@@ -1,0 +1,9 @@
+and: True False False
+or : True True False
+not: False True
+Sinemaya girebilir mi? True
+Uyarı gerekli mi? True
+True
+False
+False
+True

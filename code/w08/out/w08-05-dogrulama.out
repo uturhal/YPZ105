@@ -1,0 +1,6 @@
+0-100 arası bir not girin: abc
+  Hata: sayı girmelisiniz.
+0-100 arası bir not girin: 105
+  Hata: 0 ile 100 arasında olmalı.
+0-100 arası bir not girin: 87
+Kabul edilen not: 87

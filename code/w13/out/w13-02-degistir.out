@@ -1,0 +1,5 @@
+atama : ['süt', 'kepekli ekmek', 'yumurta']
+ekleme: ['su', 'süt', 'kepekli ekmek', 'yumurta', 'peynir', 'çay', 'şeker']
+silme : ['süt', 'peynir', 'çay'] | pop: şeker su
+dilim : ['kahve', 'fındık', 'bal', 'çay'] 4
+clear : [] 0

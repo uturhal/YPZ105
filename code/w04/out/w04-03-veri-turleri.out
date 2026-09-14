@@ -1,0 +1,10 @@
+12 -> <class 'int'>
+49.9 -> <class 'float'>
+Trabzon -> <class 'str'>
+False -> <class 'bool'>
+1212
+24
+2 üzeri 100 = 1267650600228229401496703205376
+0.1 + 0.2 = 0.30000000000000004
+0.1 + 0.2 == 0.3 ? False
+Yuvarlayarak karşılaştırma: True

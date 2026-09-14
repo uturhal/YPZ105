@@ -1,0 +1,10 @@
+enumerate — indeks ve karakter birlikte:
+0:P  1:Y  2:T  3:H  4:O  5:N  
+enumerate(start=1) — 1'den numaralandırma:
+1. harf P  2. harf Y  3. harf T  4. harf H  5. harf O  6. harf N  
+zip — iki metni eşleştirir, kısa olanda durur:
+A->D  B->E  C->F  D->G  E->H  
+reversed — sondan başa:
+NOHTYP
+aynı iş, geriye sayan range ile:
+NOHTYP

@@ -1,0 +1,10 @@
+{'Trabzon': 61, 'Rize': 53, 'Ankara': 6} 3 61
+{'Trabzon': 61, 'Rize': 53, 'Ankara': 6, 'Giresun': 28}
+True False False
+None kayıt yok
+Silinen Giresun kodu: 28 -> {'Trabzon': 61, 'Ankara': 6}
+Trabzon Ankara 
+Trabzon   61
+Ankara     6
+Kodlar: [61, 6]
+Trabzon

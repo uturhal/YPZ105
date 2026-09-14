@@ -1,0 +1,11 @@
+  a      b    | not (a and b) | not a or not b
+-------------+---------------+---------------
+True   True  |     False     |     False     
+True   False |     True      |      True     
+False  True  |     True      |      True     
+False  False |     True      |      True     
+True
+True
+True
+2
+False

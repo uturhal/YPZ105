@@ -1,0 +1,10 @@
+{
+  "kullanici": "Ayşe",
+  "yazi_boyutu": 14,
+  "bildirimler": true,
+  "son_dosyalar": [
+    "notlar.txt"
+  ]
+}
+<class 'dict'> True
+16 <class 'bool'>

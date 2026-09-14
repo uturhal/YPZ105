@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.aux
+*.log
+
+# NOT: yarıyıl içi çalışma planı (plan/) BİLEREK bu depoda değildir — imza blokları
+# içeren idari bir belgedir ve eğitmen deposunda durur.  Öğrencinin ihtiyacı olan
+# sınav takvimi, ağırlıklar ve kapsamlar ders notunun Ek A'sındadır.
+plan/
